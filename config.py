@@ -13,7 +13,7 @@ DATABASE_URL = os.getenv("DATABASE_URL", "")
 HYPERLIQUID_API_URL = "https://api.hyperliquid.xyz/info"
 
 # فاصله زمانی چک کردن ولت‌ها (ثانیه)
-CHECK_INTERVAL = 30
+CHECK_INTERVAL =15
 
 # پنجره زمانی ادغام معاملات تکه‌تکه (ثانیه)
 AGGREGATION_WINDOW = 8
