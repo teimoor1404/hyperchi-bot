@@ -1,5 +1,5 @@
 python-telegram-bot==20.8
 aiohttp==3.9.3
-aiosqlite==0.20.0
 pytz
 flask
+asyncpg==0.29.0
